@@ -1,1 +1,2 @@
-# ZexToolsV1
+#Main Work
+pkg install git
