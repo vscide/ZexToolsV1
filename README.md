@@ -1,4 +1,5 @@
-You write Terminal this code
+
+You just type the following code into the Terminal 
 
 pkg install git -y
 
@@ -11,3 +12,4 @@ chmod +x install.sh
 python ZexTools.py
 
 Finish!
+  
